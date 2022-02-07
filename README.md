@@ -7,7 +7,7 @@
 
 Description: This project helps to control staff's infomation. Administrator can manage this project. 
 
-![alt text](https://github.com/TanikulovaMadi/GUI-Project/blob/main/Presentation%20images/1.JPG)
+![alt text](https://github.com/TanikulovaMadi/GUI-Project/blob/main/Presentation%20images/1.jpg)
 ![alt text](https://github.com/TanikulovaMadi/GUI-Project/blob/main/Presentation%20images/2.JPG)
 ![alt text](https://github.com/TanikulovaMadi/GUI-Project/blob/main/Presentation%20images/3.JPG)
 ![alt text](https://github.com/TanikulovaMadi/GUI-Project/blob/main/Presentation%20images/4.JPG)
